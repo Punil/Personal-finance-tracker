@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow Android",
+  "description": "A personal finance tracker with Android-style UI, multi-currency support, and AI-powered insights.",
+  "requestFramePermissions": []
+}
